@@ -1,8 +1,8 @@
-#In Progress... 
+# In Progress...
 
 
 
-Here is the licensing stuff:
+**Here is the licensing stuff:**
 
 
 Spectral by HTML5 UP
